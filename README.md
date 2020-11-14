@@ -43,7 +43,7 @@ OBS: [Esse  dashboard](https://benubah.github.io/r-community-explorer/rladies.ht
 |19/11/2020| Goiânia | #PCA: Empreendedorismo Feminino | [Sympla](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) |
 |21/11/2020| Belo Horizonte | Curso - Como criar um pacote do Zero | Previsto - Em breve |
 |28/11/2020| Goiânia | Análise de Dados Epidemiológicos | [Sympla](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) |
-|12/11/2020| Goiânia | #PCA: GGPLOT, PLOTLY & GGANIMATE | [Sympla](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) |
+|07/12/2020| Goiânia | #PCA: GGPLOT, PLOTLY & GGANIMATE | [Sympla](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) |
 |12/12/2020| Goiânia | Análise de Sentimentos | [Sympla](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) |
 |19/12/2020| Belo Horizonte | Painel - Carreira na área de Dados | Previsto - Em breve |
 
